@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Montserrat-VariableFont";
+  src: url("../public/font/Montserrat-VariableFont_wght.ttf");
+}
+@font-face {
+  font-family: "Montserrat-Light";
+  src: url("../public/font/Montserrat-Light.ttf");
+}
+@font-face {
+  font-family: "Montserrat-Bold";
+  src: url("../public/font/Montserrat-Bold.ttf");
+}
+@font-face {
+  font-family: "Montserrat-ExtraLight";
+  src: url("../public/font/Montserrat-ExtraLight.ttf");
+}
